@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**piorpiedev/piorpiedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Piorpie**, an italian full time cs student at the University of Pisa, a passionate go developer, and a cybersecurity entusiast (crypto stands for cryptology)
 
-Here are some ideas to get you started:
+Currently recovering from a performance iper-fixation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Skills & Technologies
+
+A couple technologies      |  Here you can find 👇
+:-------------------------:|:-------------------------:
+[![My Skills](https://skillicons.dev/icons?i=go,java,html,css,git,github,flask,cpp,dotnet,htmx,tailwind,arduino,androidstudio,blender,figma,latex,postman,sqlite,mysql,debian,visualstudio,idea,py,docker&perline=8)](https://skillicons.dev)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piorpiedev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Certifications
+
+- **Cybersecurity finalist (Bronze metal)** - Olicyber, 2025
+- **English C1 Advanced (199/200 points... almost a C2 🥲)** - Cambridge english, 2024
