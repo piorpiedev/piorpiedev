@@ -9,7 +9,7 @@ Currently recovering from a performance iper-fixation
 
 A couple technologies      |  Here you can find 👇
 :-------------------------:|:-------------------------:
-[![My Skills](https://skillicons.dev/icons?i=go,java,html,css,git,github,flask,cpp,dotnet,htmx,tailwind,arduino,androidstudio,blender,figma,latex,postman,sqlite,mysql,debian,visualstudio,idea,py,docker&perline=8)](https://skillicons.dev)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piorpiedev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![My Skills](https://skillicons.dev/icons?i=go,java,html,css,git,cloudflare,flask,cpp,dotnet,htmx,tailwind,arduino,androidstudio,blender,figma,latex,postman,sqlite,mysql,debian,visualstudio,idea,py,docker&perline=8)](https://skillicons.dev)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piorpiedev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Certifications
