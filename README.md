@@ -1,9 +1,12 @@
 ## Hi there! 👋
 
-I'm **Piorpie**, an italian full time cs student at the University of Pisa, a passionate go developer, and a cybersecurity entusiast (crypto stands for cryptology)
+I'm **Piorpie**, an italian full time cs student at the University of Pisa, a passionate Go developer, and a cybersecurity entusiast 
 
 Currently recovering from a performance iper-fixation
 
+> [!important]
+> Crypto stands for cryptology
+> —Pianka, 2025
 
 ## Skills & Technologies
 
