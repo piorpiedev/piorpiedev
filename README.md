@@ -14,6 +14,7 @@ A couple technologies      |  Here you can find 👇
 :-------------------------:|:-------------------------:
 ![My Skills](https://skillicons.dev/icons?i=go,java,html,css,git,cloudflare,flask,cpp,dotnet,htmx,tailwind,arduino,androidstudio,blender,figma,latex,postman,sqlite,mysql,debian,visualstudio,idea,py,docker&perline=8)  |  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=piorpiedev&layout=compact&theme=github_dark)
 
+Tryna switch to [conventional commits](https://www.conventionalcommits.org/) here
 
 ## Certifications
 
